@@ -1,0 +1,6 @@
+[submodule "grumpi"]
+	path = grumpi
+	url = https://github.com/keisukefukuda/grumpi.git
+[submodule "tinyexpr"]
+	path = tinyexpr
+	url = https://github.com/codeplea/tinyexpr.git
